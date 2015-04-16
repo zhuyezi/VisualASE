@@ -20,7 +20,7 @@ nube cum.
 
 ## Potui nostri numerare nomen latebris
 
-Patriis precari et urbes mens saxa multo extenuat! Terribiles verbis relinquit
+Patrii precari et urbes mens saxa multo extenuat! Terribiles verbis relinquit
 facesque di, *veri nec cornu* totidem, hunc Achilli gemit?
 
     seo(hardMalwareVisual);
