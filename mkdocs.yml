@@ -5,6 +5,6 @@ pages:
 - [er_diagram.md, ER Diagram]
 - [patient.md, Patient]
 - [search.md, Search]
-- [visualization.md, Tutorial]
+- [visualization.md, Visualization]
 - [tutorial.md, Tutorial]
 theme: readthedocs
