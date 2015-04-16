@@ -2,4 +2,9 @@ site_name: VisualASE
 pages:
 - [index.md, Home]
 - [about.md, About]
+- [er_diagram.md, ER Diagram]
+- [patient.md, Patient]
+- [search.md, Search]
+- [visualization.md, Tutorial]
+- [tutorial.md, Tutorial]
 theme: readthedocs
