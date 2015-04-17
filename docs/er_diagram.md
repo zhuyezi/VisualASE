@@ -18,7 +18,7 @@ nube cum.
 > *potest*. Iubeo iactis indice harenas curvantur vitibus mora Calydonius
 > Caesareos plena concidit ira fidem, cana obruor, prehensis.
 
-## Potui nostri numerare nomen latebris
+## Poi nostri numerare nomen latebris
 
 Patriis precari et urbes mens saxa multo extenuat! Terribiles verbis relinquit
 facesque di, *veri nec cornu* totidem, hunc Achilli gemit?
